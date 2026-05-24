@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 // --- CONFIGURATION ---
-const GROQ_API_KEY = "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"; 
+const GROQ_API_KEY = "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"; 
 
 const HISTORY_FILE = path.join(__dirname, "temporary", "sruti_history.json");
 const HISTORY_LIMIT = 10;
